@@ -1,0 +1,5 @@
+azul
+amarelo
+vermelho
+preto
+cinza
